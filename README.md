@@ -3,7 +3,7 @@
 This is my personal portfolio website built with **Vite**, **Vue 3**, and **Tailwind CSS**.  
 It showcases my professional experience, technical skills, and contact information, based on my latest CV.
 
-🌐 **Live Demo:** [https://willybudiman23.github.io/my-portfolio](https://willybudiman23.github.io/my-portfolio)
+🌐 **Live Demo:** [https://willybudiman23.github.io/my-portofolio/](https://willybudiman23.github.io/my-portofolio/)
 
 ---
 
