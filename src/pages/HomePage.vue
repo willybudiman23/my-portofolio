@@ -38,7 +38,7 @@
         <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-4 border-blue-500 inline-block pb-2">
           Professional Experience
         </h2>
-        <div v-for="job in jobs" :key="job.company" class="bg-white py-6 rounded-lg shadow hover:shadow-lg transform hover:-translate-y-1 transition">
+        <div v-for="job in jobs" :key="job.company" class="bg-white p-6 mb-4 rounded-lg shadow hover:shadow-lg transform hover:-translate-y-1 transition">
           <h3 class="text-xl font-bold">{{ job.title }}</h3>
           <p class="text-gray-600">{{ job.company }} ({{ job.period }})</p>
           <ul class="list-disc ml-6 mt-2 text-gray-700 space-y-1">
