@@ -99,6 +99,15 @@ const educationText = 'Bachelor of Information Technology, STMIK LPKIA, Bandung 
 const jobs = [
   {
     title: 'Frontend Engineer',
+    company: 'PT Achilles Advanced Systems (Online Pajak)',
+    period: 'September 2025 – Now',
+    tasks: [
+      'Designed and developed a reusable UI Design System for Vue.js using Vuetify and Tailwind CSS, as well as React.js components using Material UI, improving consistency and maintainability across applications. ',
+      'Contributed to the company websites rebranding, implementing the new visual identity and translating updated designs into scalable, reusable frontend components.',
+    ]
+  },
+  {
+    title: 'Frontend Engineer',
     company: 'PT. Bukalapak.com',
     period: 'October 2018 – March 2025',
     tasks: [
